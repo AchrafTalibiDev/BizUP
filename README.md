@@ -1,2 +1,3 @@
 # BizUP
-Landing page 100% React
+Application developed via Create React App </br>
+#ReactRouter#ReactHooks#StyledComponents
